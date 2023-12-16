@@ -61,6 +61,11 @@ hash = "21d8eda40534ae97c9793b2264e54b7285a060d41bd63aa978df6f04b7df9d2e"
 metafile = true
 
 [[files]]
+file = "mods/embeddiumplus.pw.toml"
+hash = "4784d39f1340e7889f9bb3f93a973f13b010581527a5a6ce020521e9b9c3822d"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "49b79603523451f9beb1030d89d9e332b15d8e902ecc3f33901c1b25b8d2e8dd"
 metafile = true
