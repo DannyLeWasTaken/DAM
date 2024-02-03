@@ -1,5 +1,22 @@
 # Changelog
 
+## [1.1.0](https://github.com/DannyLeWasTaken/DAM/compare/main-v1.0.2...main-v1.1.0) (2024-02-03)
+
+
+### ☀ Modpack Changes
+
+* **modpack/autohud:** added autohud ([39463d0](https://github.com/DannyLeWasTaken/DAM/commit/39463d04020588ba9844130a78babf6b9f519e61))
+* **modpack/betterthirdperson:** added better third person ([1e4aa4d](https://github.com/DannyLeWasTaken/DAM/commit/1e4aa4d8868a064c4ae8f09669761972d2067df0))
+* **modpack/breezy:** added breezy ([2f555f7](https://github.com/DannyLeWasTaken/DAM/commit/2f555f74f00bbdccc0f7b779429909a6df5ef335))
+* **modpack/macawslights:** added macaws lights and lamps ([46b6d08](https://github.com/DannyLeWasTaken/DAM/commit/46b6d08f1e1f4a83575720fce199cb26c1327da2))
+* **modpack/mods:** added combat roll, alexs mobs, travelers backpack, create steam n rails, l_enders catacylcsm ([37da772](https://github.com/DannyLeWasTaken/DAM/commit/37da772a88d35ba694e2ff328899f2d0aba0718e))
+* **modpack/notelemetry:** added no telemetry ([3b218ac](https://github.com/DannyLeWasTaken/DAM/commit/3b218ac3cd10e04dcb1fea2d5f98041e55e66591))
+
+
+### ⛭ Miscellaneous
+
+* **main:** release 1.1.0 ([e53dd36](https://github.com/DannyLeWasTaken/DAM/commit/e53dd36470df5652bf7f0659fca18cbf7115d7df))
+
 ## [1.0.2](https://github.com/DannyLeWasTaken/DAM/compare/main-v1.0.1...main-v1.0.2) (2024-02-03)
 
 
