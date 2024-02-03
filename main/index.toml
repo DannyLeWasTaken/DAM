@@ -40,6 +40,11 @@ hash = "032c6fa1b771d43a6716738e33b8e7daec34af4e8eec007adc6d22cf824f2a2f"
 metafile = true
 
 [[files]]
+file = "mods/breezy.pw.toml"
+hash = "871cddf20ba52c4fc451d1e4caf8712b063270300fee907d57d9325ffe327682"
+metafile = true
+
+[[files]]
 file = "mods/canary.pw.toml"
 hash = "09c8abfaa96974aa8cf2e2f41fc4ef6829b2660a84511d6b77df931a739ac171"
 metafile = true
@@ -117,6 +122,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "4a73f04a8986129d79ea4f283a0a33ce51af17079b6efa23596af5bc685e1c1e"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "f0f23eac48840383ebaf52be4efe094efd0f57a63f338c25c79d5f3ec3d73c3f"
 metafile = true
 
 [[files]]
