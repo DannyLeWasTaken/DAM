@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.2](https://github.com/DannyLeWasTaken/DAM/compare/main-v1.0.1...main-v1.0.2) (2024-02-03)
+
+
+### ☀ Modpack Changes
+
+* **modpack/woodgood:** add wood good ([b9da0bc](https://github.com/DannyLeWasTaken/DAM/commit/b9da0bc369fa721ee73111df9abfe170e95e5172))
+
 ## [1.0.1](https://github.com/DannyLeWasTaken/DAM/compare/main-v1.0.0...main-v1.0.1) (2023-12-16)
 
 
