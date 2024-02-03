@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "91b621be2661b69b64572c4866209d5e484966461e6b97365b4f961f431fc38a"
+hash = "5fd2cc80598277c941ed19d01fa4f5561127a86297daeba97ba8cf1070b46b26"
 
 [[files]]
 file = "mods/alexs-mobs.pw.toml"
@@ -26,7 +26,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-combat.pw.toml"
-hash = "3b556473bb7904308164faacea5fda2dcfcc8d31ff0a5be8bd8038db79ba39c3"
+hash = "ee89624cda5529539c5f1f63820f6c4b110c3afe0a024cf9d4cb02f2c87fe051"
 metafile = true
 
 [[files]]
@@ -197,6 +197,11 @@ metafile = true
 [[files]]
 file = "mods/oculus-mc1.20.1-1.6.15.jar"
 hash = "ddae74163f71fe7619a4a43e783ee003b1a7d3e13d0f022388bbacfdf3917108"
+
+[[files]]
+file = "mods/oculus.pw.toml"
+hash = "fb0315e4e9cd3e19c54020193baabce224fc8323ff6ffaa4aa47be73f4125bac"
+metafile = true
 
 [[files]]
 file = "mods/playeranimator.pw.toml"

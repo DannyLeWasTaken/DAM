@@ -1,12 +1,12 @@
 name = "DAM"
 author = "Danny Le"
-version = "1.0.2"
+version = "1.1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "54a8abf48cba845f9acac873f102620f38a980059314874cbf7d2536f5da356b"
+hash = "4c1b4c50b8a86b70515457a9cdc2bee76162cafe3db1657c9f4c6cc0d8e8178b"
 
 [versions]
 minecraft = "1.20.1"
