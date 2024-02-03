@@ -20,6 +20,11 @@ hash = "b7321e670cc58aa8062f7cae470c9806c2ed83680ca598df5fe6e75ab40df452"
 metafile = true
 
 [[files]]
+file = "mods/autohud.pw.toml"
+hash = "4bd12c9388d9dd09467aa2c4d533b6d083b2dc59262edfb55791ea5b3642862c"
+metafile = true
+
+[[files]]
 file = "mods/better-combat.pw.toml"
 hash = "3b556473bb7904308164faacea5fda2dcfcc8d31ff0a5be8bd8038db79ba39c3"
 metafile = true

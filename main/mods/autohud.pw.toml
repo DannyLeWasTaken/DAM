@@ -1,0 +1,13 @@
+name = "Auto HUD"
+filename = "autohud-6.3.4+1.20.1-forge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/temczoTQ/versions/sEDA9iGr/autohud-6.3.4%2B1.20.1-forge.jar"
+hash-format = "sha1"
+hash = "26d27a4b76e4f64cc221f616941b5cb4288bf7b8"
+
+[update]
+[update.modrinth]
+mod-id = "temczoTQ"
+version = "sEDA9iGr"
