@@ -230,7 +230,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "9d5935fd4df78e0300c574ea6e48931783edf54916a8befccee23073931928d7"
+hash = "f7714416fd9cc1a822359ea6ee04b604c943c666663f2694a377dfc890ce382d"
 metafile = true
 
 [[files]]
