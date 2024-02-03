@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1](https://github.com/DannyLeWasTaken/DAM/compare/main-v1.1.0...main-v1.1.1) (2024-02-03)
+
+
+### ⚘ Modpack Updates
+
+* **main:** updated mods ([ff036bf](https://github.com/DannyLeWasTaken/DAM/commit/ff036bf6a8d0d1d2cfc18f44fba654f1cfec2425))
+
 ## [1.1.0](https://github.com/DannyLeWasTaken/DAM/compare/main-v1.0.2...main-v1.1.0) (2024-02-03)
 
 
