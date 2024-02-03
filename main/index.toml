@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "5df9e8af7df5313bb2e6c07a8cc336d4b162eb074b2bf0edd71cb85ccd166e27"
+hash = "91b621be2661b69b64572c4866209d5e484966461e6b97365b4f961f431fc38a"
 
 [[files]]
 file = "mods/alexs-mobs.pw.toml"
@@ -101,7 +101,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "9d89949bd859c9c9b97216e461f5fb63755ffffeb762ec934cbe7916c5b3afa9"
+hash = "a49c5c15586667460668bc0207a34ef56330a1cc8b7b5e3c3c7ec7876ee56138"
 metafile = true
 
 [[files]]
@@ -195,9 +195,8 @@ hash = "c3190dcd456e0e009b62c5a54ad7fdf27f0311f4912b2d7d1c4a43ab264648ab"
 metafile = true
 
 [[files]]
-file = "mods/oculus.pw.toml"
-hash = "eb156c89b37c02ca60e6ae884b33c92c5db7bd7cb90a6f9f0995b0e766bd0345"
-metafile = true
+file = "mods/oculus-mc1.20.1-1.6.15.jar"
+hash = "ddae74163f71fe7619a4a43e783ee003b1a7d3e13d0f022388bbacfdf3917108"
 
 [[files]]
 file = "mods/playeranimator.pw.toml"
