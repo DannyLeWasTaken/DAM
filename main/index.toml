@@ -75,6 +75,11 @@ hash = "49b79603523451f9beb1030d89d9e332b15d8e902ecc3f33901c1b25b8d2e8dd"
 metafile = true
 
 [[files]]
+file = "mods/every-compat.pw.toml"
+hash = "45d68f628d941772c1abdac85e4da7309c2e836dd21c845cb61ad791e374706f"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "4a73f04a8986129d79ea4f283a0a33ce51af17079b6efa23596af5bc685e1c1e"
 metafile = true
@@ -117,6 +122,11 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "d59267b7c76cda271d3edf00c50b532a5912eb1a1bafbe6a16f0ecffd78a4f4f"
+metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+hash = "038fcb9985adaa5756f9236c84634a1fe546eb4f4c54f2293d61e1989c114870"
 metafile = true
 
 [[files]]
