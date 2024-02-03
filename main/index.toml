@@ -26,7 +26,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-combat.pw.toml"
-hash = "3b556473bb7904308164faacea5fda2dcfcc8d31ff0a5be8bd8038db79ba39c3"
+hash = "ee89624cda5529539c5f1f63820f6c4b110c3afe0a024cf9d4cb02f2c87fe051"
 metafile = true
 
 [[files]]
@@ -101,7 +101,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "9d89949bd859c9c9b97216e461f5fb63755ffffeb762ec934cbe7916c5b3afa9"
+hash = "a49c5c15586667460668bc0207a34ef56330a1cc8b7b5e3c3c7ec7876ee56138"
 metafile = true
 
 [[files]]
@@ -196,7 +196,7 @@ metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "eb156c89b37c02ca60e6ae884b33c92c5db7bd7cb90a6f9f0995b0e766bd0345"
+hash = "fb0315e4e9cd3e19c54020193baabce224fc8323ff6ffaa4aa47be73f4125bac"
 metafile = true
 
 [[files]]
