@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.2](https://github.com/DannyLeWasTaken/DAM/compare/main-v1.1.1...main-v1.1.2) (2024-02-03)
+
+
+### ☀ Modpack Changes
+
+* **modpack/soundphysics:** added sound physics ([9e67cdb](https://github.com/DannyLeWasTaken/DAM/commit/9e67cdb3f84e5567a0ba9e980ce2280d18928247))
+
 ## [1.1.1](https://github.com/DannyLeWasTaken/DAM/compare/main-v1.1.0...main-v1.1.1) (2024-02-03)
 
 
