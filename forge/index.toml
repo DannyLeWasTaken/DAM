@@ -230,13 +230,13 @@ hash = "09e53b8ad971d1c870a94da1a4437335db9307b780073030bd445ee71e8a86f9"
 metafile = true
 
 [[files]]
-file = "mods/saturn.pw.toml"
-hash = "d93fd218e8e11bcb871c4814d1a1871c1de2a9ccbdc91a117a3bc96d3accd5d5"
+file = "mods/rubidium-extra.pw.toml"
+hash = "e077a5052add926ab2fe7721d7a1316ec77c0dbf8c951ea36abb61b9bd37c3b7"
 metafile = true
 
 [[files]]
-file = "mods/seamless-loading-screen.pw.toml"
-hash = "456a6afb9efe768e49e3fb427d0fac43e7af6534794b0e0873879341d3d82efd"
+file = "mods/saturn.pw.toml"
+hash = "d93fd218e8e11bcb871c4814d1a1871c1de2a9ccbdc91a117a3bc96d3accd5d5"
 metafile = true
 
 [[files]]
