@@ -100,6 +100,11 @@ hash = "c464b21ac8baf5ed1d22a0c4bacfcf24977e04dc938add65a2a93bcaf704c22e"
 metafile = true
 
 [[files]]
+file = "mods/creativecore.pw.toml"
+hash = "25a0d0480f418d976c414920497bac67e47590573dabe879f369d17cedf85d64"
+metafile = true
+
+[[files]]
 file = "mods/curios.pw.toml"
 hash = "b04f2efc8277da6022e8ef9dbf58e82ba042f7273890ccb3c62d5380e8d08ac7"
 metafile = true
@@ -211,6 +216,11 @@ metafile = true
 [[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "30484a8787dd30e579c7098b77d0c1d243044c7458828b87d8c81c92001717fa"
+metafile = true
+
+[[files]]
+file = "mods/playerrevive.pw.toml"
+hash = "6a5c367f6054881191275b8b836fe6073a36dc8d8fc784fed72cfad46a894941"
 metafile = true
 
 [[files]]
