@@ -160,11 +160,6 @@ hash = "b635e6c2e6976b14140c9ae1539ea06936def38f77565298a7df100eaf87f6ee"
 metafile = true
 
 [[files]]
-file = "mods/extended-cogwheels.pw.toml"
-hash = "0a7bf48d9905395955c694ef1ddc6465f0673984068a2dbc6dd4a29e95d5c941"
-metafile = true
-
-[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "4a73f04a8986129d79ea4f283a0a33ce51af17079b6efa23596af5bc685e1c1e"
 metafile = true
