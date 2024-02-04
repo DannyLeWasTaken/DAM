@@ -10,6 +10,11 @@ hash = "240cf6196aef5a820435e10b12837daab76750206f68b3885e91c5a6e9248470"
 metafile = true
 
 [[files]]
+file = "mods/almost-unified.pw.toml"
+hash = "7492c07b691dd6a055014b58e3393fe6ca8e3e86bb4403fa273ebf2616b6f574"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "0a1d5aeaae3975eaa4bb3a98e91852f797a5095794af70df41d50841c57ca347"
 metafile = true
