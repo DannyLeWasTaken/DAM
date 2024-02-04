@@ -6,3 +6,6 @@
 
 # ignore java binaries
 *.jar
+
+# ignore test dicteory
+test/*
