@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.1.0 (2024-02-04)
+
+
+### ⛭ Miscellaneous
+
+* **main:** release 1.1.0 ([e53dd36](https://github.com/DannyLeWasTaken/DAM/commit/e53dd36470df5652bf7f0659fca18cbf7115d7df))
+
 ## [1.1.1](https://github.com/DannyLeWasTaken/DAM/compare/main-v1.1.0...main-v1.1.1) (2024-02-03)
 
 
