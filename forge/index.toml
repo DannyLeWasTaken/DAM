@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "5fd2cc80598277c941ed19d01fa4f5561127a86297daeba97ba8cf1070b46b26"
+hash = "d2c65fce1c22a89bf195fd27504b05326e638afe9ececbf76a3b0b8692df2706"
 
 [[files]]
 file = "mods/alexs-mobs.pw.toml"
@@ -31,7 +31,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-combat.pw.toml"
-hash = "ee89624cda5529539c5f1f63820f6c4b110c3afe0a024cf9d4cb02f2c87fe051"
+hash = "47336ab62f9f72c14e8b3aec3753aa9594de2bda4e4b84dd0e5295d7efa078de"
 metafile = true
 
 [[files]]
@@ -210,10 +210,6 @@ hash = "c3190dcd456e0e009b62c5a54ad7fdf27f0311f4912b2d7d1c4a43ab264648ab"
 metafile = true
 
 [[files]]
-file = "mods/oculus-mc1.20.1-1.6.15.jar"
-hash = "ddae74163f71fe7619a4a43e783ee003b1a7d3e13d0f022388bbacfdf3917108"
-
-[[files]]
 file = "mods/oculus.pw.toml"
 hash = "10984e9419e1c695f82ee0ddda5e5625f614996c99a7817b2eff8c6d4b1525c6"
 metafile = true
@@ -266,6 +262,11 @@ metafile = true
 [[files]]
 file = "mods/travelersbackpack.pw.toml"
 hash = "2d5edde4ce59a899c9e44e06a12be9b64470c8a85834598fff676c8688d668d2"
+metafile = true
+
+[[files]]
+file = "mods/wwoo.pw.toml"
+hash = "28df223dfb6b7f35f71487224bbb630fe6db6f03a3a357bf2f15a3fafb98dd63"
 metafile = true
 
 [[files]]
