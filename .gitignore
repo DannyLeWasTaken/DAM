@@ -4,8 +4,8 @@
 # Exclude exported Modrinth modpacks
 *.mrpack
 
-# ignore java binaries
-*.jar
+# Exclude .direnv
+.direnv
 
-# ignore test dicteory
-test/*
+# Eclude precommit hooks config
+.pre-commit-config.yaml
