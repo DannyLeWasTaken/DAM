@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.2.0](https://github.com/DannyLeWasTaken/DAM/compare/v1.0.0...v1.2.0) (2024-02-10)
+
+
+### Miscellaneous Chores
+
+* **main:** release 1.1.0 ([e53dd36](https://github.com/DannyLeWasTaken/DAM/commit/e53dd36470df5652bf7f0659fca18cbf7115d7df))
+* **main:** release 1.2.0 ([844c05e](https://github.com/DannyLeWasTaken/DAM/commit/844c05e0bcaca5698591ba604954140f03757b97))
+
 ## [1.2.0](https://github.com/DannyLeWasTaken/DAM/compare/forge-v1.1.0...forge-v1.2.0) (2024-02-10)
 
 
