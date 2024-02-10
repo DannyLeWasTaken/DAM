@@ -1,5 +1,23 @@
 # Changelog
 
+## [1.2.0](https://github.com/DannyLeWasTaken/DAM/compare/forge-v1.1.0...forge-v1.2.0) (2024-02-10)
+
+
+### ☀ Modpack Changes
+
+* **forge/almostunified:** add almost unified for ore compatability ([57597fc](https://github.com/DannyLeWasTaken/DAM/commit/57597fc620d4cc837d47cffae9a6b3e857f78379))
+* **forge/enchantmentindustry:** added enchantment industry ([979f7c8](https://github.com/DannyLeWasTaken/DAM/commit/979f7c82635ef73eaa1b41ff63eb7055f2271974))
+* **forge/oculus:** re-added oculus after fix ([0f90aee](https://github.com/DannyLeWasTaken/DAM/commit/0f90aee898b0e06b6a8fe6d6ad2ad765b2a57d66))
+* **forge/playerrevive:** added player revive ([0c2c24f](https://github.com/DannyLeWasTaken/DAM/commit/0c2c24f8c01f21dedcb45dacbe05c1387adf39bd))
+* **forge/rubidium-extra:** added rubidium extras ([00b0750](https://github.com/DannyLeWasTaken/DAM/commit/00b0750b161e7457aebba23bcd1336f74f4f4a92))
+* **forge/seamlessloadingscreen:** added seamless loading screen ([c24f687](https://github.com/DannyLeWasTaken/DAM/commit/c24f68720179ba269d0a1b130161f1f2714a86a8))
+* **forge:** added villager qol mods + overhauled vanilla structures ([46921bc](https://github.com/DannyLeWasTaken/DAM/commit/46921bcdf5ced3ef6d66b15fa4e96c393f01cad0))
+
+
+### ⛭ Miscellaneous
+
+* **main:** release 1.2.0 ([844c05e](https://github.com/DannyLeWasTaken/DAM/commit/844c05e0bcaca5698591ba604954140f03757b97))
+
 ## 1.1.0 (2024-02-04)
 
 
