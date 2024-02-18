@@ -14,4 +14,4 @@
 test/*
 
 # Ignore illegal files not allowed in .mrpack
-.jar
+*.jar
