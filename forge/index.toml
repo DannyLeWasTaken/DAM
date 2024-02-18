@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "621d68ae3b80c05110a766a175cc8c4385a69a89f3eb6796c3dbe2c6aaa12c44"
+hash = "2f41948835b1be27c1a47ca1e8df6d6300a5bd5e27fed03d7602130dc967eb21"
 
 [[files]]
 file = "config/openloader/data/ctov-bountiful-compat.pw.toml"
@@ -26,7 +26,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "b7321e670cc58aa8062f7cae470c9806c2ed83680ca598df5fe6e75ab40df452"
+hash = "47a7f350e4f5d945aed55768997706063384022f965d2d1fdeb99f18fd2787e8"
 metafile = true
 
 [[files]]
@@ -351,11 +351,6 @@ metafile = true
 [[files]]
 file = "mods/village-spawn-point.pw.toml"
 hash = "003225dfa6da66f98a403b21dce5c0bdb5f4bf965fec8b6c13ea47451ee9c1be"
-metafile = true
-
-[[files]]
-file = "mods/wwoo.pw.toml"
-hash = "28df223dfb6b7f35f71487224bbb630fe6db6f03a3a357bf2f15a3fafb98dd63"
 metafile = true
 
 [[files]]
