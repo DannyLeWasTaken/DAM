@@ -9,3 +9,9 @@
 
 # Eclude precommit hooks config
 .pre-commit-config.yaml
+
+# ignore test directory to bug testing crashes
+test/*
+
+# Ignore illegal files not allowed in .mrpack
+.jar
