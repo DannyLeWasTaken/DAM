@@ -5,6 +5,11 @@ file = "CHANGELOG.md"
 hash = "621d68ae3b80c05110a766a175cc8c4385a69a89f3eb6796c3dbe2c6aaa12c44"
 
 [[files]]
+file = "datapacks/ctov-bountiful-compat.pw.toml"
+hash = "c7d80d31f5592e63a59aaf9ef0006ad4cbb7757f5eba2284d7932c0d1938ba2f"
+metafile = true
+
+[[files]]
 file = "mods/alexs-mobs.pw.toml"
 hash = "240cf6196aef5a820435e10b12837daab76750206f68b3885e91c5a6e9248470"
 metafile = true
@@ -326,6 +331,11 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "f7714416fd9cc1a822359ea6ee04b604c943c666663f2694a377dfc890ce382d"
+metafile = true
+
+[[files]]
+file = "mods/spawn-animations.pw.toml"
+hash = "61e88480a7df95b00cae33f2dec5eadadd96ba4d68e2536ca036584495961a4f"
 metafile = true
 
 [[files]]
