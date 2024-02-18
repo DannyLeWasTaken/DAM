@@ -1,5 +1,14 @@
 # Changelog
 
+## [2.1.0](https://github.com/DannyLeWasTaken/DAM/compare/v2.0.0...v2.1.0) (2024-02-18)
+
+
+### Miscellaneous Chores
+
+* **main:** release 1.0.0 ([fc36ff4](https://github.com/DannyLeWasTaken/DAM/commit/fc36ff4872b519aecebb2906bfae9ce42e98893f))
+* **main:** release 2.1.0 ([8e8576c](https://github.com/DannyLeWasTaken/DAM/commit/8e8576c59bee1a3f22a88b15d8c384a064c50704))
+* **main:** release 2.1.0 ([1d90f69](https://github.com/DannyLeWasTaken/DAM/commit/1d90f694c7b3d2fb8929d4ec7bc4c3a425d3e447))
+
 ## [2.0.0](https://github.com/DannyLeWasTaken/DAM/compare/v1.2.0...v2.0.0) (2024-02-18)
 
 
