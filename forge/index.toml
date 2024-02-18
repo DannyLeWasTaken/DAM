@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "d2c65fce1c22a89bf195fd27504b05326e638afe9ececbf76a3b0b8692df2706"
+hash = "621d68ae3b80c05110a766a175cc8c4385a69a89f3eb6796c3dbe2c6aaa12c44"
 
 [[files]]
 file = "mods/alexs-mobs.pw.toml"
@@ -290,6 +290,10 @@ hash = "6a5c367f6054881191275b8b836fe6073a36dc8d8fc784fed72cfad46a894941"
 metafile = true
 
 [[files]]
+file = "mods/reterraforged-0.0.6-forge-1.20.1.jar"
+hash = "3aae58fc0d6e7402f1207ee7e2a164a7413a8153e34a99b037c1dc9036549a89"
+
+[[files]]
 file = "mods/rhino.pw.toml"
 hash = "09e53b8ad971d1c870a94da1a4437335db9307b780073030bd445ee71e8a86f9"
 metafile = true
@@ -325,8 +329,8 @@ hash = "f7714416fd9cc1a822359ea6ee04b604c943c666663f2694a377dfc890ce382d"
 metafile = true
 
 [[files]]
-file = "mods/tectonic.pw.toml"
-hash = "65fa078fab8243283a0c8d569787a7146c4ee3d57f865cd5cb159b184ea1764b"
+file = "mods/terrablender.pw.toml"
+hash = "15883b352385c520391c036ae0965269c413e3e6fbd6f12dd8c38618db25c2b5"
 metafile = true
 
 [[files]]
