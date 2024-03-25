@@ -7,3 +7,5 @@
 
 # Exclude Changelog
 /CHANGELOG.release.md
+
+*.mrpack

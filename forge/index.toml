@@ -195,11 +195,6 @@ hash = "f0f23eac48840383ebaf52be4efe094efd0f57a63f338c25c79d5f3ec3d73c3f"
 metafile = true
 
 [[files]]
-file = "mods/geophilic.pw.toml"
-hash = "dff520bc4934ac3bf7fa1b0634c25a8d3b150117d20860f2d13b2d88664c52f1"
-metafile = true
-
-[[files]]
 file = "mods/guard-villagers.pw.toml"
 hash = "6bd4ed1b7b3552d90d9c957f0075cd2681becfadff9e157d002a174f857db35a"
 metafile = true
@@ -351,6 +346,11 @@ metafile = true
 [[files]]
 file = "mods/village-spawn-point.pw.toml"
 hash = "003225dfa6da66f98a403b21dce5c0bdb5f4bf965fec8b6c13ea47451ee9c1be"
+metafile = true
+
+[[files]]
+file = "mods/wwoo.pw.toml"
+hash = "28df223dfb6b7f35f71487224bbb630fe6db6f03a3a357bf2f15a3fafb98dd63"
 metafile = true
 
 [[files]]
